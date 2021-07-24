@@ -1,0 +1,59 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  padding: 0;
+}
+.navbar-brand{
+    font-weight: 500;
+    font-size: 1.4em;
+}
+
+h5, h6, p, i{
+  color: #707070;
+}
+h4{
+  font-size: 1.3em;
+}
+h5{
+  font-size: 1.3em;
+  font-weight: 300;
+  color: #212529;
+}
+h6{
+  font-size: 1em;
+  font-weight: 300;
+}
+p{
+  font-size: 0.8em;
+  font-weight: 300;
+}
+i{
+  font-size: 0.8em
+}
+.precio{
+  font-size: 1em;
+  font-weight: 300;
+}
+.oferta{
+  font-size: 1.3em;
+  font-weight: 500;
+  color: #28a745;
+}
+.card{
+  display: inline-block;
+  margin: 30px;
+}
+
+form{
+  height: 240px;
+}
+.form-control{
+  width: 80%;
+  font-weight: 300;
+}
+.btn{
+  border: #DDDDDD 0.5px solid;
+}
+.navbar p{
+  font-size: 1.2em;
+}
